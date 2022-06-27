@@ -3,6 +3,7 @@ const turnStatus = document.querySelector("#turnStatus");
 const currentPlayerName = document.querySelector("#player1");
 const restartBttn = document.querySelector("#restartBttn");
 const winConditions = [
+    
     [0, 1, 2],
     [3, 4, 5],
     [6, 7, 8],
